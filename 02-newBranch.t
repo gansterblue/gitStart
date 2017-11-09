@@ -4,4 +4,8 @@
 
 > git add . && git commit -a -m "commit"
 
+// rebase from branch
+> git 	rebase	master		// Merge current branch to latest master
 
+
+// merge current branch
